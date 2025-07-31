@@ -1,0 +1,57 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "ACMEUserName",
+      "DisplayName": "ACMEUserName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "punammali2018@gmail.com",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ACMELoginURL",
+      "DisplayName": "ACMELoginURL",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "https://acme-test.uipath.com/login",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ACMEWorkItemsURL",
+      "DisplayName": "ACMEWorkItemsURL",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "https://acme-test.uipath.com/home",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ACMEPassword",
+      "DisplayName": "ACMEPassword",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "Punam@2018",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
